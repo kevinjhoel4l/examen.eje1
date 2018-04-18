@@ -1,0 +1,33 @@
+nav{
+	margin: 1rem 0;
+}
+
+article img{
+	max-width: 20rem;
+}
+
+article p{
+	padding: 10px;
+}
+
+article{	
+	padding: 1em;
+	margin-bottom: 1em;
+}
+
+#busqueda{
+	margin-bottom: 1em;
+}
+body{
+	background: black;
+}
+.row{
+	background: black;
+}
+
+p{
+	color: white;
+}
+b{
+	color:white;
+}
